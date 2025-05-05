@@ -1,2 +1,2 @@
 # Music Sequencer Development
-This is a public site for Bug reporting and feature requests for the Music Sequencer plugin.
+This is a public site to receive **bug reports** and **feature requests** for the Music Sequencer plugin.
