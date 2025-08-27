@@ -2,7 +2,7 @@
 
 ## Documentation
 
-[Music Sequencer Manual](docs/index.md)
+[Music Sequencer Wiki](https://github.com/gogodyne/MusicSequencerPlugin/wiki)
 
 ## Issues, Reporting, and Feature Requests
 
