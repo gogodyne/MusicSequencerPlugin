@@ -1,7 +1,7 @@
 ## Song Creation and Editing
 
 <figure>
-	<a href="img/Runtime.png"><img src="img/Runtime.png" width="300">
+	<a href="img/SongGraph.png"><img src="img/SongGraph.png" width="300">
 	<figcaption>Song Graph</figcaption></a>
 </figure>
 
